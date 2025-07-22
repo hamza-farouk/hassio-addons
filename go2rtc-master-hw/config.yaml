@@ -1,8 +1,8 @@
 # https://github.com/AlexxIT/builder/blob/master/builder.sh
 name: go2rtc master hardware
 description: Hardware transcoding for Intel (VAAPI/QSV), AMD (VAAPI) and NVidia (CUDA)
-url: https://github.com/hamza-farouk`-BN/go2rtc
-`-BNimage: alexxit/go2rtc`-
+url: https://github.com/hamza-farouk/go2rtc
+image: hamza-farouk/go2rtc
 arch: [ amd64 ]
 
 # https://developers.home-assistant.io/docs/add-ons/configuration
